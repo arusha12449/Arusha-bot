@@ -1,11 +1,11 @@
 {
-  "name": "𝐁.𝐌.𝐁-𝐗𝐌𝐃",
-  "description": "Javascript WhatsApp bot made by 𝙱.𝙼.𝙱-𝚇𝙼𝙳 ",
-  "keywords": ["𝐁.𝐌.𝐁-𝐗𝐌𝐃"],
+  "name": "arusha_md",
+  "description": "Javascript WhatsApp bot made by arusha_md ",
+  "keywords": ["arusha_md"],
   
   
   "logo": "https://ibb.co/Cs0L5Rj0",
-  "repository": "https://github.com/bmb-tz/B.M.B-TECH",
+  "repository": "https://github.com/bmb-tz/arusha-TECH",
   "succes_url": "/",
 
   "stack": "container",
@@ -25,7 +25,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> 𝙱.𝙼.𝙱-𝚇𝙼𝙳 AM ONLINE BY MY B.M.B CREATOR⚡"
+      "value": "> arusha_md AM ONLINE BY MY arusha CREATOR⚡"
     },
     
     "PREFIX": {
@@ -82,13 +82,13 @@
     "AUTO_STATUS__MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 𝙹𝚄𝚂𝚃 𝙽𝙾𝚆 𝚂𝙴𝙴𝙽 𝙱𝚈 𝙱.𝙼.𝙱-𝚇𝙼𝙳🤩🥳😍*"
+      "value": "*🎉👀 𝙹𝚄𝚂𝚃 𝙽𝙾𝚆 𝚂𝙴𝙴𝙽 𝙱𝚈 arusha_md🤩🥳😍*"
     }, 
 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐁.𝐌.𝐁-𝐗𝐌𝐃✨"
+      "value": "arusha_md✨"
 }, 
 
     "OWNER_NUMBER": {
@@ -100,7 +100,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐁.𝐌.𝐁-𝐗𝐌𝐃"
+      "value": "arusha_md"
 
       }, 
 
@@ -120,7 +120,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*𝐁.𝐌.𝐁-𝐗𝐌𝐃*"
+      "value": "*arusha_md*"
     },
 
       "DELETE_LINKS": {
